@@ -9,3 +9,18 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
  - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
 
  Happy coding! 🚀
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nishant0073/BrainTunning/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Union Find
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nishant0073/BrainTunning/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Sorting
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nishant0073/BrainTunning/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+<!---LeetCode Topics End-->
