@@ -23,4 +23,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nishant0073/BrainTunning/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Nishant0073/BrainTunning/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Nishant0073/BrainTunning/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
