@@ -19,6 +19,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Union Find
 |  |
 | ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Nishant0073/BrainTunning/tree/master/2121-find-if-path-exists-in-graph) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nishant0073/BrainTunning/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
 |  |
@@ -32,4 +33,16 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nishant0073/BrainTunning/tree/master/0020-valid-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Nishant0073/BrainTunning/tree/master/2121-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Nishant0073/BrainTunning/tree/master/2121-find-if-path-exists-in-graph) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Nishant0073/BrainTunning/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
