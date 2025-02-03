@@ -16,6 +16,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Nishant0073/BrainTunning/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nishant0073/BrainTunning/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Nishant0073/BrainTunning/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Nishant0073/BrainTunning/tree/master/3429-special-array-i) |
 ## Union Find
 |  |
