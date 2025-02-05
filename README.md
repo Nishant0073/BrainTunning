@@ -32,6 +32,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nishant0073/BrainTunning/tree/master/0020-valid-parentheses) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nishant0073/BrainTunning/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Stack
 |  |
 | ------- |
@@ -48,4 +49,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/Nishant0073/BrainTunning/tree/master/2121-find-if-path-exists-in-graph) |
+## Hash Table
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nishant0073/BrainTunning/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Counting
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nishant0073/BrainTunning/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
