@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nishant0073/BrainTunning/tree/master/0001-two-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Nishant0073/BrainTunning/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Nishant0073/BrainTunning/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nishant0073/BrainTunning/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -52,6 +53,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nishant0073/BrainTunning/tree/master/0001-two-sum) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nishant0073/BrainTunning/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Counting
 |  |
