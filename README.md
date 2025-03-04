@@ -59,4 +59,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nishant0073/BrainTunning/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Nishant0073/BrainTunning/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
