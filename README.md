@@ -32,6 +32,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Nishant0073/BrainTunning/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Nishant0073/BrainTunning/tree/master/0020-valid-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nishant0073/BrainTunning/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Stack
@@ -63,4 +64,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Nishant0073/BrainTunning/tree/master/0009-palindrome-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Nishant0073/BrainTunning/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
